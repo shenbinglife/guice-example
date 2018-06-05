@@ -1,0 +1,13 @@
+.classpath
+.project
+.pydevproject
+.settings
+build
+target
+
+# IntelliJ git ignore
+.idea
+*.iml
+/out/
+
+*.log
